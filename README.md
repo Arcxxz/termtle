@@ -1,2 +1,5 @@
 # termtle
-a little turtle for your terminal written in python
+
+looping turtle animation in the terminal
+
+uses python + curses
